@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.NetCore.WebApi", "Learning.NetCore.WebApi\Learning.NetCore.WebApi.csproj", "{7F9A7EBE-7C07-4D0F-9043-DDEFF2855955}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learning.NetCore.WebApi", "Learning.NetCore.WebApi\Learning.NetCore.WebApi.csproj", "{7F9A7EBE-7C07-4D0F-9043-DDEFF2855955}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.NetCore.Mvc", "Learning.NetCore.Mvc\Learning.NetCore.Mvc.csproj", "{358A61E5-7EB9-4CB2-8D6E-78829567C187}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learning.NetCore.Mvc", "Learning.NetCore.Mvc\Learning.NetCore.Mvc.csproj", "{358A61E5-7EB9-4CB2-8D6E-78829567C187}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.NetCore.Razor", "Learning.NetCore.Razor\Learning.NetCore.Razor.csproj", "{3674D069-D0CF-429B-8F43-2A1585FEDE9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learning.NetCore.Razor", "Learning.NetCore.Razor\Learning.NetCore.Razor.csproj", "{3674D069-D0CF-429B-8F43-2A1585FEDE9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.NetCore.Empty", "Learning.NetCore.Empty\Learning.NetCore.Empty.csproj", "{3FFEB487-B249-4D71-B936-276792C409D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learning.NetCore.Empty", "Learning.NetCore.Empty\Learning.NetCore.Empty.csproj", "{3FFEB487-B249-4D71-B936-276792C409D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.NetCore.Angular", "Learning.NetCore.Angular\Learning.NetCore.Angular.csproj", "{55D85771-A0FC-4963-945B-18C38A2105C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3FFEB487-B249-4D71-B936-276792C409D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FFEB487-B249-4D71-B936-276792C409D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FFEB487-B249-4D71-B936-276792C409D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D85771-A0FC-4963-945B-18C38A2105C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D85771-A0FC-4963-945B-18C38A2105C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D85771-A0FC-4963-945B-18C38A2105C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D85771-A0FC-4963-945B-18C38A2105C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
